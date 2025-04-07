@@ -1,10 +1,7 @@
 # 💫 About Me:
 💻 Currently building scalable full-stack applications using TypeScript, React, and Fastify.
-
 🔐 Recently developed LaCertif, a secure blockchain-based exam platform integrating Web3Auth, smart contracts, fraud detection AI, and Streamlit.
-
 🤝 Looking to collaborate on projects involving AI integration, big data pipelines, or decentralized certification systems.
-
 🚀 Currently learning best practices for secure API design, smart contract architecture, and scalable AI deployment.
 
 # 💻 Tech Stack:
