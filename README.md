@@ -3,7 +3,7 @@
 🎯 **Research Scientist & Engineering Student** specializing in **Generative AI, Cybersecurity & Web3**  
 🧠 Currently working on AI for cyber defense and emotional voice analysis  
 🏊‍♂️ **Official High-Level Athlete (SHN)** - Long-distance triathlete (Top 157 French ranking, 18-24)  
-📍 Paris, France | Seeking 1-year AI Research Apprenticeship | Available September 2026
+📍 Paris, France | Seeking 1-year AI Research Apprenticeship (Sept 2026) OR 6-month End-of-Studies Internship (March 2027)
 
 ---
 
@@ -138,4 +138,5 @@
 
 ---
 
-*Seeking 1-year AI Research Apprenticeship | Available September 2026*
+*Seeking 1-year AI Research Apprenticeship | Available September 2026 start*  
+*OR 6-month End-of-Studies Internship | Available March 2027 start*
