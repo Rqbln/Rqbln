@@ -1,11 +1,41 @@
-# 💫 About Me:
-💻 Currently building scalable full-stack applications using TypeScript, React, and Fastify.
+# 💫 About Me
 
-🏗️ Recently developed [LaCertif](https://www.linkedin.com/feed/update/urn:li:activity:7359266115639746560/), a secure blockchain-based exam platform integrating Web3Auth, smart contracts and fraud detection.
+🎯 Research scientist & engineering student specializing in **Generative AI, cybersecurity and Web3-based certification systems**.
+🧠 Currently working on AI for cyber defense (synthetic cyber datasets, APT simulation, LLM infra) and emotional voice analysis (prosody → deep learning models).
+🏊‍♂️ Official high-level long-distance triathlete (SHN), applying data-driven training and long-term planning to both sports and engineering projects.
 
-🤝 Looking to collaborate on projects involving AI integration, big data pipelines, or decentralized certification systems.
+## 🔬 Current Work & Focus
 
-🚀 Currently learning best practices for secure API design, smart contract architecture, and scalable AI deployment.
+- **BNP Paribas – Generative AI & Cybersecurity**:  
+  - Cyber-attack dataset generation lab (Docker, Kafka/ZooKeeper, Caldera C2, Neo4j) for MITRE ATT&CK-based defensive models.
+  - LLM infra management (OpenWebUI, custom proxy, Azure clients, context control, error handling).
+
+- **Intelligence Lab ECE**:  
+  - Voice prosody → emotional state prediction with PyTorch (CNN/LSTM/Transformers audio).
+  - Productionizing “Milo”, a campus AI agent: Docker APIs, CI/CD, fine-tuning pipeline, secure RAG, observability.
+
+- **Hackathons & Competitions**:  
+  - Ministry of Armed Forces (CND) finalist with an air‑gapped network copilot for operators.
+  - GenHack 4: climate downscaling ML pipeline (ERA5, Sentinel‑2, React/Deck.gl, Vercel API) improving RMSE from 2.45°C to 1.24°C.
+  - Google Cloud / GCPU Agentic AI: “Kura”, an emotional analysis agent using Gemini, ElevenLabs, n8n, Qdrant.
+  - Paris Blockchain Week: “LaCertif”, decentralized credential platform with Soulbound tokens & Verifiable Credentials.
+
+## 🧪 Selected Projects
+
+- **LaCertif – Decentralized Exam & Credentials**  
+  Web3-based certification platform issuing on-chain credentials via smart contracts (Soulbound tokens, DID/VC standards, Web3Auth, real-time verification APIs).
+
+- **Wizos – Decentralized Learning Platform**  
+  Ethereum + Solidity + Hardhat + React dApp where on‑chain skills replace traditional CVs for matching jobs, missions and bounties.
+
+- **TempoBot / KOMHunter / Holdeye / TriCalc**  
+  - TempoBot: smart electricity consumption manager (Python, MQTT/Tasmota, SwiftUI, Firebase).
+  - KOMHunter: Strava segment analysis (Python, Streamlit, Strava API, custom difficulty index & maps).
+  - Holdeye: crypto & NFT portfolio tracker with strategy‑oriented dashboards.
+  - TriCalc: triathlon training & performance analysis tool.
+
+- **Home Lab & Infra**  
+  Multi‑GPU/HDD mining rigs (ETH, Flux, Ergo, Qubic, Chia) + self‑hosted NAS/Nextcloud on Raspberry Pi with WebDAV and privacy‑focused services.
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
