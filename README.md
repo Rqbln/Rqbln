@@ -130,8 +130,3 @@ Currently seeking a 1-year Research Co-op (Sept 2026) or a 6-month End-of-Studie
 ![WebDAV](https://img.shields.io/badge/WebDAV-0066CC?style=for-the-badge&logo=webdav&logoColor=white)
 ![HiveOS](https://img.shields.io/badge/HiveOS-FF6B00?style=for-the-badge&logo=hiveos&logoColor=white)
 ![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)
-
----
-
-*Seeking 1-year AI Research Apprenticeship | Available September 2026 start*  
-*OR 6-month End-of-Studies Internship | Available March 2027 start*
