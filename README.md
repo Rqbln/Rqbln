@@ -1,40 +1,12 @@
-# 💫 About Me
+# About Me
 
-🎯 **Research Scientist & Engineering Student** specializing in **Generative AI, Cybersecurity & Web3**  
-🧠 Currently working on AI for cyber defense and emotional voice analysis  
-🏊‍♂️ **Official High-Level Athlete (SHN)** - Long-distance triathlete (Top 157 French ranking, 18-24)  
-📍 Paris, France | Seeking 1-year AI Research Apprenticeship (Sept 2026) OR 6-month End-of-Studies Internship (March 2027)
+Research Scientist and Engineering student specializing in Generative AI for Cybersecurity and Affective Computing. 
+Currently seeking a 1-year Research Co-op (Sept 2026) or a 6-month End-of-Studies Internship (March 2027).
 
----
-
-## 🔬 Current Work
-
-### BNP Paribas - Research Team
-**Research Scientist (Generative AI & Cybersecurity)**
-- **Responsible AI Hackathon Winner**: Multi-dimensional "AI Score" framework (bias, security, explainability, energy) - being industrialized on Domino Data Lab
-- **Cyber Dataset Generator & APT Simulation**: Co-authoring paper for KDD 2026 (A* conference); automated lab infrastructure (Docker, Kafka/ZooKeeper, Caldera C2) for synthetic MITRE ATT&CK datasets with Neo4j visualization
-- **LLM Infrastructure**: Managed OpenWebUI server, custom proxy with chat completions/embeddings, Azure client configuration, advanced context control
-
-### Intelligence Lab ECE
-**Lab Intern**
-- **Voice Prosody Research**: Pipeline from acoustic features (pitch, energy, MFCC, jitter/shimmer) to PyTorch models (CNN/LSTM/Transformers) for emotional state prediction
-- **"Milo" Production Deployment**: Campus AI agent on small LM with Docker APIs, CI/CD, fine-tuning pipeline, secure PDF RAG, observability
-
----
-
-## 🏆 Hackathons & Competitions
-
-- **🏅 Ministry of Armed Forces (CND) Hackathon** - *Finalist & Recruitment*  
-  Air-gapped network copilot for operators. Solution validated for sovereignty compliance, leading to direct recruitment. Qualified for second phase (April 2026).
-
-- **🌍 GenHack 4 - Polytechnique** - *Climate Downscaling Solution*  
-  ML pipeline improving temperature prediction by 49.5% (RMSE: 2.45°C → 1.24°C) using ERA5, Sentinel-2, React/Deck.gl, Vercel API.
-
-- **🤖 Google Cloud / GCPU Agentic AI Hackathon** - *"Kura" Emotional Analysis Agent*  
-  Full-stack emotional support agent using Gemini, ElevenLabs, n8n workflows, Qdrant vector storage.
-
-- **🔗 Paris Blockchain Week** - *"LaCertif" Decentralized Credentials*  
-  Certification platform with Soulbound tokens, Verifiable Credentials/DID standards, smart contracts.
+* **AI Research (BNP Paribas):** Co-authoring a KDD 2026 paper on synthetic cyber datasets and developed an industrial "AI Score" framework.
+* **Voice AI (Intelligence Lab):** Built PyTorch pipelines (Transformers/CNN) for emotional state prediction and deployed campus-scale AI agents.
+* **Competitions:** Finalist at the Ministry of Armed Forces hackathon (Air-gapped Copilot) and winner at Polytechnique GenHack (Climate ML).
+* **High-Level Athlete:** Long-distance triathlete, Top 157 French ranking (18-24).
 
 ---
 
