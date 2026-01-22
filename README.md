@@ -3,8 +3,8 @@
 Research Scientist and Engineering student specializing in Generative AI. 
 Currently seeking a 6-month End-of-Studies Internship (March 2027).
 
-* **AI Research (BNP Paribas):** Co-authoring a KDD 2026 paper on synthetic cyber datasets and developed an industrial "AI Score" framework.
-* **Research Intern (Intelligence Lab):** Built PyTorch pipelines (Transformers/CNN) for emotional state prediction and deployed campus-scale AI agents.
+* **Research Scientist (BNP Paribas):** Co-authoring a KDD 2026 paper on synthetic cyber datasets and developed an industrial "AI Score" framework.
+* **Lab Intern (Intelligence Lab):** Built PyTorch pipelines (Transformers/CNN) for emotional state prediction and deployed campus-scale AI agents.
 * **Hackathons:** Finalist at the Ministry of Armed Forces hackathon (Air-gapped Copilot) and Winner at the BivwAk Responsible AI Hackathon.
 * **High-Level Athlete:** Long-distance triathlete, Top 157 French 2025 ranking (18-24).
 
