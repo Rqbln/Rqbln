@@ -1,12 +1,12 @@
 # About Me
 
-Research Scientist and Engineering student specializing in Generative AI for Cybersecurity and Affective Computing. 
-Currently seeking a 1-year Research Co-op (Sept 2026) or a 6-month End-of-Studies Internship (March 2027).
+Research Scientist and Engineering student specializing in Generative AI. 
+Currently seeking a 6-month End-of-Studies Internship (March 2027).
 
 * **AI Research (BNP Paribas):** Co-authoring a KDD 2026 paper on synthetic cyber datasets and developed an industrial "AI Score" framework.
-* **Voice AI (Intelligence Lab):** Built PyTorch pipelines (Transformers/CNN) for emotional state prediction and deployed campus-scale AI agents.
-* **Competitions:** Finalist at the Ministry of Armed Forces hackathon (Air-gapped Copilot) and winner at Polytechnique GenHack (Climate ML).
-* **High-Level Athlete:** Long-distance triathlete, Top 157 French ranking (18-24).
+* **Research Intern (Intelligence Lab):** Built PyTorch pipelines (Transformers/CNN) for emotional state prediction and deployed campus-scale AI agents.
+* **Hackathons:** Finalist at the Ministry of Armed Forces hackathon (Air-gapped Copilot) and Winner at the BivwAk Responsible AI Hackathon.
+* **High-Level Athlete:** Long-distance triathlete, Top 157 French 2025 ranking (18-24).
 
 ---
 
