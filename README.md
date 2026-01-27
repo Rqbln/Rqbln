@@ -17,7 +17,6 @@ Paris, France · Research Scientist (Generative AI & Cybersecurity) · High-Leve
 
 Deep into **agentic AI**, **cyber defense** and **Web3-based credential systems**. I like turning complex infra (air-gapped networks, sovereign GPU clusters, mining rigs) into reliable platforms for AI products.
 
----
 
 ## Current Work
 
@@ -30,7 +29,6 @@ Deep into **agentic AI**, **cyber defense** and **Web3-based credential systems*
 - **Official High-Level Athlete (SHN) – Long Distance Triathlon & Ultra-endurance**  
   Top 157 French ranking (18–24). Ironman finisher and ultra-trail runner, applying the same long-term, data-driven planning to research and engineering.
 
----
 
 ## Selected Hackathons & Competitions
 
@@ -49,26 +47,6 @@ Deep into **agentic AI**, **cyber defense** and **Web3-based credential systems*
 - **🧩 H-W3B Hackathon – Wizos**  
   Decentralized learning & matching platform on **Ethereum** using **Solidity, Hardhat, React, Web3.js** where on-chain skills replace declarative CVs for matching jobs, missions and bounties.
 
----
-
-## Selected Projects
-
-- **TempoBot – Smart Energy Orchestrator**  
-  Intelligent electricity consumption manager built around the **EDF Tempo** tariff. Python backend with **MQTT/Tasmota**, iOS app in **SwiftUI**, and **Firebase** real-time sync to schedule devices automatically based on dynamic pricing.
-
-- **Holdeye – Crypto & NFT Portfolio Tracker**  
-  Full-stack web app aggregating multiple wallets/strategies (trading, staking, liquidity pools, ICOs). Provides a unified dashboard for PnL, allocation and performance history.
-
-- **KOMHunter – Strava Segment Intelligence**  
-  Tool written in **Python + Streamlit** that finds the “easiest” KOM/QOM segments by combining elevation gain, distance and KOM speed into a custom difficulty index, with interactive maps and filters.
-
-- **TriCalc – Triathlon Training & Race Planner**  
-  Training calculator and performance analysis tool used to structure long-distance triathlon blocks, from macro-cycles to race pacing.
-
-- **Home Lab – Mining Rigs & Private Cloud**  
-  Engineered multi‑GPU/HDD rigs (ETH, Flux, Ergo, Qubic, Chia) with **HiveOS**, and a self‑hosted **Raspberry Pi + Nextcloud + WebDAV** stack acting as a low‑power private cloud.
-
----
 
 ## Tech I Enjoy Working With
 
