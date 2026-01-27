@@ -32,25 +32,20 @@ Deep into **agentic AI**, **cyber defense** and **Web3-based credential systems*
 
 ## Selected Hackathons & Competitions
 
-- **🏅 Ministry of Armed Forces (CND) – AI for Network Resilience** *(Finalist & Recruitment)*  
-  Built an **air-gapped network copilot** for operators: local AI assistant for incident detection and prioritized remediation in sensitive environments. Validated by military mentors for sovereignty, leading to recruitment by Intelligence Lab ECE and selection for a second phase with the Ministry of Armed Forces.  
-  Repos: [`backend`](https://github.com/Rqbln/dirisi25-hackathon-backend), [`frontend`](https://github.com/Rqbln/dirisi25-hackathon-frontend).
+- **[🏅 Ministry of Armed Forces (CND) – AI for Network Resilience](https://github.com/Rqbln/dirisi25-hackathon-backend)** *(Finalist & Recruitment)*  
+  Built an **air-gapped network copilot** for operators: local AI assistant for incident detection and prioritized remediation in sensitive environments. Validated by military mentors for sovereignty, leading to recruitment by Intelligence Lab ECE and selection for a second phase with the Ministry of Armed Forces.
 
-- **🌍 GenHack 4 – École Polytechnique (Chronos-WxC)**  
-  Climate downscaling solution for urban heat islands. Designed a residual learning pipeline (9km → 80m) combining **ERA5, Sentinel‑2 and in-situ data**, improving RMSE from **2.45°C → 1.24°C**. Deployed a serverless API on **Vercel** and an interactive **React/Deck.gl** dashboard.  
-  Repo: [`GenHack4-Hackathon-Backend`](https://github.com/Rqbln/GenHack4-Hackathon-Backend).
+- **[🌍 GenHack 4 – École Polytechnique (Chronos-WxC)](https://github.com/Rqbln/GenHack4-Hackathon-Backend)**  
+  Climate downscaling solution for urban heat islands. Designed a residual learning pipeline (9km → 80m) combining **ERA5, Sentinel‑2 and in-situ data**, improving RMSE from **2.45°C → 1.24°C**. Deployed a serverless API on **Vercel** and an interactive **React/Deck.gl** dashboard.
 
-- **🤖 Google Cloud Partner / GCPU – Agentic AI Hackathon (Kura)**  
-  Built **Kura**, an emotional analysis agent using **Gemini** and **ElevenLabs**. Orchestrated workflows with **n8n** and **Qdrant** to analyze voice prosody and detect emotional states in real time.  
-  Repos: [`webapp`](https://github.com/Rqbln/GCPU-hackathon-webapp), [`pipeline`](https://github.com/Rqbln/GCPU-hackathon-vertex).
+- **[🤖 Google Cloud Partner / GCPU – Agentic AI Hackathon (Kura)](https://github.com/Rqbln/GCPU-hackathon-vertex)**  
+  Built **Kura**, an emotional analysis agent using **Gemini** and **ElevenLabs**. Orchestrated workflows with **n8n** and **Qdrant** to analyze voice prosody and detect emotional states in real time.
 
-- **🔗 Paris Blockchain Week – LaCertif**  
-  Web3 certification platform issuing on-chain credentials as **Soulbound tokens** backed by **Verifiable Credentials / DID** standards. Smart contracts manage issuance/revocation; backend APIs sign data and expose real-time verification endpoints.  
-  Repo: [`LaCertif`](https://github.com/Rqbln/LaCertif).
+- **[🔗 Paris Blockchain Week – LaCertif](https://github.com/Rqbln/LaCertif)**  
+  Web3 certification platform issuing on-chain credentials as **Soulbound tokens** backed by **Verifiable Credentials / DID** standards. Smart contracts manage issuance/revocation; backend APIs sign data and expose real-time verification endpoints.
 
-- **🧩 H-W3B Hackathon – Wizos**  
-  Decentralized learning & matching platform on **Ethereum** using **Solidity, Hardhat, React, Web3.js** where on-chain skills replace declarative CVs for matching jobs, missions and bounties.  
-  Repo: [`h-w3b-2024`](https://github.com/Rqbln/h-w3b-2024).
+- **[🧩 H-W3B Hackathon – Wizos](https://github.com/Rqbln/h-w3b-2024)**  
+  Decentralized learning & matching platform on **Ethereum** using **Solidity, Hardhat, React, Web3.js** where on-chain skills replace declarative CVs for matching jobs, missions and bounties.
 
 
 ## Tech I Enjoy Working With
