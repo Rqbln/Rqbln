@@ -78,8 +78,5 @@ Deep into **agentic AI**, **cyber defense** and **Web3-based credential systems*
 - **Security & Cyber**: `MITRE ATT&CK`, `Caldera C2`, air‑gapped & sovereign infra
 - **Web3**: `Ethereum`, `Solidity`, `Hardhat`, `Web3Auth`
 - **IoT & Embedded**: `Raspberry Pi`, `Arduino`, `MQTT`, `Tasmota`
-
-![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)
-![WebDAV](https://img.shields.io/badge/WebDAV-0066CC?style=for-the-badge&logo=webdav&logoColor=white)
 ![HiveOS](https://img.shields.io/badge/HiveOS-FF6B00?style=for-the-badge&logo=hiveos&logoColor=white)
 ![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)
