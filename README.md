@@ -16,10 +16,8 @@ I work at the intersection of **LLM-based multi-agent systems**, **software engi
 ## Current Work
 
 - **BNP Paribas – Research Scientist (Generative AI)**
-  - **Multi-agent systems for finance** – Engineering and harnessing LLM multi-agent systems for a Corporate & Investment Banking product-recommendation use case, optimizing cost and latency constraints (tokens, time). Open-source tool and research paper in progress with the BNP Paribas research lab and a team of ECE students.
   - **VERA** – A responsible AI evaluation framework focused on explainability and trustworthy LLM systems (APSEC 2026, SEIP track).
   - **AMLSynthetor** – Synthetic banking data generation to train and validate anti-money-laundering detection models.
-  - **ARGOS-Gen** – Cyber-attack dataset generator and APT simulation lab (Docker, Kafka/ZooKeeper, OpenSearch, Neo4j) to study MITRE ATT&CK techniques at scale; paper for **KDD 2026 (Datasets & Benchmarks)**.
 
 - **Intelligence Lab ECE – Research Intern (Sovereign Clinical AI)**
   Privacy-preserving mental-health assistant with **local LLMs (Mistral/Llama)**, **RAG over Qdrant** and **voice prosody analysis** (Whisper, Librosa, PyTorch), with a deterministic safety supervisor for crisis situations.
